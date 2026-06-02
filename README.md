@@ -14,7 +14,7 @@ Para efectos de rapidez en la ejecución de la prueba, no se utilizó una capa d
 
 ### 1. Base de Datos
 Es necesario tener MySQL corriendo localmente.
-Se debe crear la base de datos `bd_agudelo` y su respectiva tabla. Puedes utilizar el script proporcionado (`bd/script_creacion_bd.sql`) de la raíz original del proyecto, o crearla manualmente.
+Se debe crear la base de datos `bd_agudelo` y su respectiva tabla. Puedes utilizar el script proporcionado (`bd/script_creacion_bd.sql`) que se encuentra en la carpeta `bd` de este mismo repositorio.
 
 ### 2. Levantar la Aplicación
 1. Abrir una terminal en la raíz de este proyecto (`backend`).
